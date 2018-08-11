@@ -64,10 +64,7 @@ define({
 Library|License|Copyright
 -------|-------|---------
 [require](http://requirejs.org/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/requirejs/blob/master/LICENSE)
-[require domReady](https://github.com/requirejs/domReady)|[MIT](https://opensource.org/licenses/MIT)|[
-Copyright jQuery Foundation and other contributors](https://github.com/requirejs/domReady/blob/master/LICENSE)
-[require text](https://github.com/requirejs/text)|[MIT](https://opensource.org/licenses/MIT)|[
-Copyright jQuery Foundation and other contributors](https://github.com/requirejs/text/blob/master/LICENSE)
-[require i18n](https://github.com/requirejs/i18n)|[MIT](https://opensource.org/licenses/MIT)|[
-Copyright jQuery Foundation and other contributors](https://github.com/requirejs/i18n/blob/master/LICENSE)
+[require domReady](https://github.com/requirejs/domReady)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/domReady/blob/master/LICENSE)
+[require text](https://github.com/requirejs/text)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/text/blob/master/LICENSE)
+[require i18n](https://github.com/requirejs/i18n)|[MIT](https://opensource.org/licenses/MIT)|[Copyright jQuery Foundation and other contributors](https://github.com/requirejs/i18n/blob/master/LICENSE)
 
